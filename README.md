@@ -1,15 +1,5 @@
-Вот объединенный и улучшенный README файл, который включает всю информацию в едином стиле:
-
 ```markdown
 # 🎨 Изучение Tkinter: День 1
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Статус-Завершено-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/День-1-ff69b4?style=for-the-badge">
-</div>
-
 ## 📋 Содержание
 - [Изученные концепции](#-изученные-концепции)
 - [Задача 1: Яркое приветствие](#-задача-1-яркое-приветствие)
